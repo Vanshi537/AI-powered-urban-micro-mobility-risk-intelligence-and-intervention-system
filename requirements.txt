@@ -1,0 +1,8 @@
+TOOLS USED:
+pandas
+numpy
+streamlit
+scikit-learn
+matplotlib
+plotly
+folium
